@@ -34,14 +34,15 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${runtime}</muleVersion>
-						<server>my.anypoint.credentials</server>
-						<environment>${environment}</environment>
-						<applicationName>${applicationName}</applicationName>
-						<region>${region}</region>
-						<workers>${workers}</workers>
+						<muleVersion>4.4.0</muleVersion>
+						<username>venu2006</username>
+						<password>Dolly@1234</password>
+						<environment>Sandbox</environment>
+						<applicationName>deploy</applicationName>
+						<region>us-east-2</region>
+						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
-						<workerType>${workerType}</workerType>
+						<workerType>MICRO</workerType>
 						<properties>
 							<env>dev</env>
 						</properties>
