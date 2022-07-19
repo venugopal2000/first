@@ -38,7 +38,7 @@
 						<username>venu2006</username>
 						<password>Dolly@1234</password>
 						<environment>Sandbox</environment>
-						<applicationName>deploy</applicationName>
+						<applicationName>First-mule-jenkins</applicationName>
 						<region>us-east-2</region>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
